@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0b19d9fb-5fcf-45b3-b604-037f1ee183c1" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/github.com/noatgnu/ancestral/configuration/configuration.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/github.com/noatgnu/ancestral/musclewrapper/muscle.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/align.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/align.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/align_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/align_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/crsp_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/crsp_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/fitted.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/fitted.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/fitted_affine.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/fitted_affine.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/fitted_affine_letters.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/fitted_affine_letters.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/fitted_affine_qletters.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/fitted_affine_qletters.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/fitted_example_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/fitted_example_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/fitted_letters.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/fitted_letters.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/fitted_qletters.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/fitted_qletters.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/matrix/generated.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/matrix/generated.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/matrix/matrices.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/matrix/matrices.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/nw.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/nw.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/nw_affine.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/nw_affine.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/nw_affine_letters.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/nw_affine_letters.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/nw_affine_qletters.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/nw_affine_qletters.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/nw_example_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/nw_example_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/nw_letters.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/nw_letters.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/nw_qletters.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/nw_qletters.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/pals/dp/align.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/pals/dp/align.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/pals/dp/dp_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/pals/dp/dp_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/pals/dp/kernel.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/pals/dp/kernel.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/pals/dp/sort.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/pals/dp/sort.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/pals/features.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/pals/features.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/pals/filter/fhits.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/pals/filter/fhits.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/pals/filter/filter.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/pals/filter/filter.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/pals/filter/filter_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/pals/filter/filter_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/pals/filter/merge.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/pals/filter/merge.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/pals/filter/trapezoid.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/pals/filter/trapezoid.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/pals/packseqs.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/pals/packseqs.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/pals/pair.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/pals/pair.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/pals/pals.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/pals/pals.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/pals/pals_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/pals/pals_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/pals/pile_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/pals/pile_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/pals/piler.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/pals/piler.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/pals/write.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/pals/write.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/sw.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/sw.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/sw_affine.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/sw_affine.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/sw_affine_letters.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/sw_affine_letters.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/sw_affine_qletters.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/sw_affine_qletters.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/sw_example_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/sw_example_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/sw_letters.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/sw_letters.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/sw_qletters.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/align/sw_qletters.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/alphabet/alphabet.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/alphabet/alphabet.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/alphabet/alphabet_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/alphabet/alphabet_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/alphabet/example_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/alphabet/example_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/alphabet/letters.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/alphabet/letters.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/alphabet/letters_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/alphabet/letters_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/complexity/complexity.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/complexity/complexity.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/complexity/complexity_1_7_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/complexity/complexity_1_7_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/complexity/complexity_pre1_7_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/complexity/complexity_pre1_7_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/complexity/complexity_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/complexity/complexity_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/concurrent/conc_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/concurrent/conc_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/concurrent/concurrent.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/concurrent/concurrent.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/concurrent/example_map_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/concurrent/example_map_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/concurrent/example_promisemap_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/concurrent/example_promisemap_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/concurrent/lazy.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/concurrent/lazy.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/concurrent/lazy_example_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/concurrent/lazy_example_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/concurrent/map.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/concurrent/map.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/concurrent/processor.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/concurrent/processor.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/concurrent/promise.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/concurrent/promise.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/doc.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/doc.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/errors/chain.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/errors/chain.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/errors/chain_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/errors/chain_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/errors/errors.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/errors/errors.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/errors/errors_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/errors/errors_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/feat/feature.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/feat/feature.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/feat/feature_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/feat/feature_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/feat/gene/gene.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/feat/gene/gene.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/feat/gene/gene_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/feat/gene/gene_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/feat/genome/cow/bt7/bt7.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/feat/genome/cow/bt7/bt7.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/feat/genome/drosophila/dm3/dm3.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/feat/genome/drosophila/dm3/dm3.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/feat/genome/genome.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/feat/genome/genome.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/feat/genome/human/hg19/hg19.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/feat/genome/human/hg19/hg19.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/feat/genome/mouse/mm10/mm10.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/feat/genome/mouse/mm10/mm10.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/feat/moltype.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/feat/moltype.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/feat/moltype_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/feat/moltype_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/feat/position.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/feat/position.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/feat/position_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/feat/position_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/index/kmerindex/kmerindex.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/index/kmerindex/kmerindex.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/index/kmerindex/kmerindex_386.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/index/kmerindex/kmerindex_386.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/index/kmerindex/kmerindex_amd64.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/index/kmerindex/kmerindex_amd64.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/index/kmerindex/kmerindex_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/index/kmerindex/kmerindex_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/io/featio/bed/bed.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/io/featio/bed/bed.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/io/featio/bed/bed_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/io/featio/bed/bed_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/io/featio/featio.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/io/featio/featio.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/io/featio/featio_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/io/featio/featio_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/io/featio/gff/gff.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/io/featio/gff/gff.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/io/featio/gff/gff_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/io/featio/gff/gff_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/io/seqio/alignio/alignio.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/io/seqio/alignio/alignio.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/io/seqio/alignio/alignio_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/io/seqio/alignio/alignio_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/io/seqio/alignio/data_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/io/seqio/alignio/data_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/io/seqio/fai/fai.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/io/seqio/fai/fai.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/io/seqio/fai/fai_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/io/seqio/fai/fai_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/io/seqio/fasta/fasta.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/io/seqio/fasta/fasta.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/io/seqio/fasta/fasta_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/io/seqio/fasta/fasta_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/io/seqio/fasta/testaln0_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/io/seqio/fasta/testaln0_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/io/seqio/fasta/testaln1_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/io/seqio/fasta/testaln1_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/io/seqio/fastq/fastq.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/io/seqio/fastq/fastq.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/io/seqio/fastq/fastq_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/io/seqio/fastq/fastq_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/io/seqio/seqio.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/io/seqio/seqio.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/io/seqio/seqio_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/io/seqio/seqio_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/morass/morass.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/morass/morass.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/morass/morass_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/morass/morass_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/pwm/pwm.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/pwm/pwm.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/seq/alignment/alignment.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/seq/alignment/alignment.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/seq/alignment/alignment_example_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/seq/alignment/alignment_example_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/seq/alignment/alignment_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/seq/alignment/alignment_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/seq/alignment/qalignment.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/seq/alignment/qalignment.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/seq/alignment/qalignment_example_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/seq/alignment/qalignment_example_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/seq/annotation.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/seq/annotation.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/seq/linear/linear.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/seq/linear/linear.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/seq/linear/linear_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/seq/linear/linear_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/seq/linear/qseq.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/seq/linear/qseq.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/seq/linear/qseq_example_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/seq/linear/qseq_example_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/seq/linear/seq.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/seq/linear/seq.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/seq/linear/seq_example_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/seq/linear/seq_example_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/seq/multi/multi.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/seq/multi/multi.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/seq/multi/multi_example_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/seq/multi/multi_example_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/seq/multi/multi_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/seq/multi/multi_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/seq/multi/set.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/seq/multi/set.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/seq/multi/set_example_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/seq/multi/set_example_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/seq/quality/phred.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/seq/quality/phred.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/seq/quality/quality_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/seq/quality/quality_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/seq/quality/solexa.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/seq/quality/solexa.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/seq/seq.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/seq/seq.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/seq/seq_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/seq/seq_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/seq/sequtils/example_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/seq/sequtils/example_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/seq/sequtils/utils.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/seq/sequtils/utils.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/seq/sequtils/utils_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/seq/sequtils/utils_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/util/calls.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/util/calls.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/util/calls_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/util/calls_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/util/debruijn.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/util/debruijn.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/util/debruijn_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/util/debruijn_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/util/debug.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/util/debug.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/util/files.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/util/files.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/util/files_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/util/files_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/util/maths.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/util/maths.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/util/maths_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/util/maths_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/util/timing.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/util/timing.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/util/util.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/util/util.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/util/util_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/util/util_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/util/wrapper.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/util/wrapper.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/util/wrapper_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/util/wrapper_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/biogo/version.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/biogo/version.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/graph/edge.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/graph/edge.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/graph/graph.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/graph/graph.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/graph/graph_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/graph/graph_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/graph/karger.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/graph/karger.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/graph/karger_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/graph/karger_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/graph/node.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/graph/node.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/graph/stores.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/graph/stores.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/graph/traverse.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/graph/traverse.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/graph/undirected.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/graph/undirected.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/graph/undirected_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/graph/undirected_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/graph/weighted.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/graph/weighted.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/graph/weighted_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/graph/weighted_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/store/interval/bu23.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/store/interval/bu23.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/store/interval/do_example_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/store/interval/do_example_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/store/interval/domatching_example_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/store/interval/domatching_example_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/store/interval/int_interval.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/store/interval/int_interval.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/store/interval/int_interval_example_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/store/interval/int_interval_example_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/store/interval/int_interval_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/store/interval/int_interval_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/store/interval/interval.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/store/interval/interval.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/store/interval/interval_example_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/store/interval/interval_example_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/store/interval/interval_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/store/interval/interval_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/store/interval/landscape/landscape.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/store/interval/landscape/landscape.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/store/interval/landscape/landscape_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/store/interval/landscape/landscape_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/store/interval/td234.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/store/interval/td234.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/store/kdtree/kdtree.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/store/kdtree/kdtree.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/store/kdtree/kdtree_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/store/kdtree/kdtree_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/store/kdtree/medians.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/store/kdtree/medians.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/store/kdtree/medians_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/store/kdtree/medians_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/store/kdtree/nbpoints_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/store/kdtree/nbpoints_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/store/kdtree/points.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/store/kdtree/points.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/store/llrb/llrb.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/store/llrb/llrb.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/store/llrb/llrb_example_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/store/llrb/llrb_example_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/store/llrb/llrb_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/store/llrb/llrb_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/store/step/step.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/store/step/step.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/biogo/store/step/step_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/biogo/store/step/step_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/gorilla/mux/bench_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/gorilla/mux/bench_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/gorilla/mux/context_gorilla.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/gorilla/mux/context_gorilla.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/gorilla/mux/context_gorilla_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/gorilla/mux/context_gorilla_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/gorilla/mux/context_native.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/gorilla/mux/context_native.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/gorilla/mux/context_native_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/gorilla/mux/context_native_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/gorilla/mux/doc.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/gorilla/mux/doc.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/gorilla/mux/mux.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/gorilla/mux/mux.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/gorilla/mux/mux_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/gorilla/mux/mux_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/gorilla/mux/old_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/gorilla/mux/old_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/gorilla/mux/regexp.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/gorilla/mux/regexp.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/gorilla/mux/route.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/gorilla/mux/route.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/noatgnu/ancestral/blastwrapper/blastpwrapper.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/noatgnu/ancestral/blastwrapper/blastpwrapper.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/noatgnu/ancestral/blastwrapper/helper.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/noatgnu/ancestral/blastwrapper/helper.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/noatgnu/ancestral/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/noatgnu/ancestral/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/noatgnu/ancestral/workflow/blast.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/noatgnu/ancestral/workflow/blast.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/noatgnu/ancestral/workflow/phylo.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/noatgnu/ancestral/workflow/phylo.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/noatgnu/ancestral/workflow/preprocessing.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/noatgnu/ancestral/workflow/preprocessing.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:/Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+    <option name="urls">
+      <list>
+        <option value="file://$PROJECT_DIR$" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://C:/Go/src/regexp/regexp.go" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1PifIJfs3MciYycCQXEeme1XQ5Y" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="http.client.ignore.private.env.files.were.configured" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="GoMoveDeclarationDialog.RECENT_KEY">
+      <recent name="$PROJECT_DIR$/src/github.com/noatgnu/ancestral" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GoProject\ancestral" />
+      <recent name="D:\GoProject\ancestral\src\github.com\noatgnu\ancestral\musclewrapper" />
+      <recent name="D:\GoProject\ancestral\src\github.com\noatgnu\ancestral\codemlwrapper" />
+      <recent name="D:\GoProject\ancestral\src\github.com\noatgnu\ancestral\workflow" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\GoProject\ancestral\src\github.com\noatgnu\ancestral\config" />
+      <recent name="D:\GoProject" />
+      <recent name="C:\Users\localadmin\GoglandProjects\ancestral\src\github.com\noatgnu\ancestral\workflow" />
+      <recent name="C:\Users\localadmin\GoglandProjects\ancestral\src\github.com\noatgnu\ancestral\blastwrapper" />
+      <recent name="C:\Users\localadmin\GoglandProjects\ancestral\src\github.com\noatgnu\ancestral" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build main.go">
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="ancestral" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/src/github.com/noatgnu/ancestral/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="ancestral" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/github.com/noatgnu/ancestral/main.go" />
+      <directory value="$PROJECT_DIR$/" />
+    </configuration>
+    <configuration name="TestCodeMLCommandline_ReadSupplemental in github.com/noatgnu/ancestral/codemlwrapper" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="ancestral" />
+      <working_directory value="$PROJECT_DIR$/src/github.com/noatgnu/ancestral/codemlwrapper" />
+      <go_parameters value="-i" />
+      <kind value="PACKAGE" />
+      <package value="github.com/noatgnu/ancestral/codemlwrapper" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <framework value="gotest" />
+      <pattern value="^TestCodeMLCommandline_ReadSupplemental$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestRemapTopDom in github.com/noatgnu/ancestral/workflow" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="ancestral" />
+      <working_directory value="$PROJECT_DIR$/src/github.com/noatgnu/ancestral/workflow" />
+      <go_parameters value="-i" />
+      <kind value="PACKAGE" />
+      <package value="github.com/noatgnu/ancestral/workflow" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <framework value="gotest" />
+      <pattern value="^TestRemapTopDom$" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build main.go" />
+      <item itemvalue="Go Test.TestCodeMLCommandline_ReadSupplemental in github.com/noatgnu/ancestral/codemlwrapper" />
+      <item itemvalue="Go Test.TestRemapTopDom in github.com/noatgnu/ancestral/workflow" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestRemapTopDom in github.com/noatgnu/ancestral/workflow" />
+        <item itemvalue="Go Test.TestCodeMLCommandline_ReadSupplemental in github.com/noatgnu/ancestral/codemlwrapper" />
+        <item itemvalue="Go Build.go build main.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TestHistory">
+    <history-entry file="TestRemapTopDom_in_github_com_noatgnu_ancestral_workflow - 2018.05.11 at 10h 43m 14s.xml">
+      <configuration name="TestRemapTopDom in github.com/noatgnu/ancestral/workflow" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestRemapTopDom_in_github_com_noatgnu_ancestral_workflow - 2018.05.11 at 10h 43m 32s.xml">
+      <configuration name="TestRemapTopDom in github.com/noatgnu/ancestral/workflow" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestRemapTopDom_in_github_com_noatgnu_ancestral_workflow - 2018.05.11 at 10h 43m 58s.xml">
+      <configuration name="TestRemapTopDom in github.com/noatgnu/ancestral/workflow" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestRemapTopDom_in_github_com_noatgnu_ancestral_workflow - 2018.05.11 at 10h 50m 20s.xml">
+      <configuration name="TestRemapTopDom in github.com/noatgnu/ancestral/workflow" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestRemapTopDom_in_github_com_noatgnu_ancestral_workflow - 2018.05.11 at 10h 50m 43s.xml">
+      <configuration name="TestRemapTopDom in github.com/noatgnu/ancestral/workflow" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestCodeMLCommandline_ReadSupplemental_in_github_com_noatgnu_ancestral_codemlwrapper - 2018.06.06 at 21h 25m 59s.xml">
+      <configuration name="TestCodeMLCommandline_ReadSupplemental in github.com/noatgnu/ancestral/codemlwrapper" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestCodeMLCommandline_ReadSupplemental_in_github_com_noatgnu_ancestral_codemlwrapper - 2018.06.06 at 21h 26m 26s.xml">
+      <configuration name="TestCodeMLCommandline_ReadSupplemental in github.com/noatgnu/ancestral/codemlwrapper" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestCodeMLCommandline_ReadSupplemental_in_github_com_noatgnu_ancestral_codemlwrapper - 2018.06.06 at 21h 26m 54s.xml">
+      <configuration name="TestCodeMLCommandline_ReadSupplemental in github.com/noatgnu/ancestral/codemlwrapper" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestCodeMLCommandline_ReadSupplemental_in_github_com_noatgnu_ancestral_codemlwrapper - 2018.06.06 at 21h 29m 24s.xml">
+      <configuration name="TestCodeMLCommandline_ReadSupplemental in github.com/noatgnu/ancestral/codemlwrapper" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestCodeMLCommandline_ReadSupplemental_in_github_com_noatgnu_ancestral_codemlwrapper - 2018.06.06 at 21h 36m 16s.xml">
+      <configuration name="TestCodeMLCommandline_ReadSupplemental in github.com/noatgnu/ancestral/codemlwrapper" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
