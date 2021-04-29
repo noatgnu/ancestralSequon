@@ -1,9 +1,9 @@
 
 # Created by https://www.toptal.com/developers/gitignore/api/python,go,text,executable
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,go,text,executable
-.\pkg
-.\result
-.\projectFilesBackup
+pkg/
+result/
+projectFilesBackup/
 
 
 *.phr
